@@ -42,8 +42,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
   
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vsc" />
-  
-  ##
+ 
   
   ![Snake animation](https://github.com/RyannMx/RyannMx/blob/output/github-contribution-grid-snake.svg)
 
