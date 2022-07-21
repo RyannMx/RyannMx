@@ -3,7 +3,7 @@
   Aspirante em progamação!<br>
   Baucando soluções com a tecnologia😃<br>
  
-  <a target="_blank" href="https://www.instagram.com/ryaanmx/" alt="IG">
+  <a href="https://www.instagram.com/ryaanmx/" alt="IG">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   
    <a href="https://twitter.com/ryaanmx" alt="Twitter">
