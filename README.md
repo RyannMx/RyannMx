@@ -19,8 +19,8 @@
  
 <div align="">
   <a href="https://github.com/RyannMx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyannMx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyannMx&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyannMx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyannMx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### <strong>🚀 Linguagens</strong>
