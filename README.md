@@ -23,7 +23,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyannMx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### <strong>🚀 Linguagens</strong>
+### <strong>🚀 Technologies</strong>
  ##
 <div align="">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
