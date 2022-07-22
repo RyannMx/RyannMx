@@ -1,7 +1,7 @@
   ### <strong>Hello there, sou o Ryan  👨‍💻</strong>
 
   Aspirante em progamação!<br>
-  Baucando soluções com a tecnologia😃<br>
+  Buscando soluções com a tecnologia😃<br>
  
   <a href="https://www.instagram.com/ryaanmx/" alt="IG">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
