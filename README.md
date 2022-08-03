@@ -1,50 +1,56 @@
-  ### <strong>Hello there, sou o Ryan  👨‍💻</strong>
+<h1 align="center"> 
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
+Hi, I'm Ryan Max
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="23px">
+</h1>
 
-  Aspirante em progamação!<br>
-  Buscando soluções com a tecnologia😃<br>
+<p align="center"><br/>
+
+<a href="https://www.linkedin.com/in/">
+    <img src="https://img.shields.io/badge/linkedin-ryaanmx-blue">
+  </a>
+
+<a href="https://www.instagram.com/ryaanmx/">
+    <img src="https://img.shields.io/badge/instagram-ryaanmx_-red">
+  </a>
+  
+  <h3 align="center">A passionate Front End developer from Brazil 🇧🇷</h3>
+  <h3 align="center"> </h3>
+  <img width="45%"  align="right" alt="Github Image" src="https://raw.githubusercontent.com/Azanniel/Azanniel/main/cute-astronaut-operating-laptop.gif" />
+
+ <p align="left"> <img src=https://komarev.com/ghpvc/?username=RyannMx alt=RyannMx/></p>
  
-  <a href="https://www.instagram.com/ryaanmx/" alt="IG">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  
-   <a href="https://twitter.com/ryaanmx" alt="Twitter">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  
-   <a href="https://discord.gg/WPJMcnCA" alt="discord">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  
-   <a href="#" alt="linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  
-  ##
  
-<div align="">
-  <a href="https://github.com/RyannMx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyannMx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyannMx&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-### <strong>🚀 Technologies</strong>
- ##
-<div align="">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-
-</div>  
-
-### <strong>💻Workspace</strong>
-  ##
-  <img  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="mint" />
-  
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
-  
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="vsc" />
+- 🔭 I’m currently working on **secret🥷** 
+ - 🌱 I’m currently learning ... **JavaScript and React.js**
+ - 💬 Ask me about ... **Web Develpoment**
+ - 😄 Employement ... **Open for intern opportunities**
+ - ⚡ Fun fact ... **Anime**❤
+ - 📫 How to reach me **maxryan2343@gmail.com**
  
-  
-  ![Snake animation](https://github.com/RyannMx/RyannMx/blob/output/github-contribution-grid-snake.svg)
+<h4>Programming Languages: </h4>
 
+<p align="left">
+
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
+
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
+
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
+  
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
+<!--   <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt=javascript width="50" height="50"/> -->
+  
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
+ 
 
   
+  <h4>Desktop Environment: </h4>
+<p align="left">
+  
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
+</p>
